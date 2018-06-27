@@ -1,2 +1,2 @@
-x = "abcdefg"
-print(x.count("c"))
+x = input("Как тебя зовут? Баба? \n")
+print("Привет," + x)
