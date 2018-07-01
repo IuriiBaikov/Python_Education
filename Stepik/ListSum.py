@@ -1,5 +1,5 @@
 numberList = [int(i) for i in input().split()]
-# The firs solution
+# The first solution
 j=1
 z=numberList[0]
 while j<len(numberList):
